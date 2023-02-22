@@ -8,6 +8,6 @@ The user enters a description of a product to search for and the API returns a l
 
 In this repository you can find a pdf with documentation, a folder with the API files and the notebook.
 
-You can find the API documentation here: 132.226.199.219:8000/docs
+You can find the API documentation here: [132.226.199.219:8000/docs](132.226.199.219:8000/docs)
 
-You can try entering a search description here: 132.226.199.219:8000/rcm?t=[product_description]
+You can try entering a search description here: [132.226.199.219:8000/rcm?t=[product_description]](132.226.199.219:8000/rcm?t=[product_description])
