@@ -1,4 +1,4 @@
-# Notebook_ABP
+# IKEA Product Content Recommendation System
 
 IKEA product content recommendation system obtaining the data from a Kaggle dataset ([here](https://www.kaggle.com/datasets/crawlfeeds/ikea-us-products-dataset)).
 
