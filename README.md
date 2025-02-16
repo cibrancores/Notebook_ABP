@@ -4,6 +4,13 @@ IKEA product content recommendation system obtaining the data from a Kaggle data
 
 **Note: Project made by students for educational purposes, it has nothing to do with the IKEA brand.**
 
+This project was developed by:
+- [Agustín Suárez Martínez](https://github.com/adotsuarez)
+- [Cibrán Cores Cabaleiro](https://github.com/cibrancores)
+- [Gonzalo Álvarez Acevedo](https://github.com/gonzaloalvarez4)
+- José Manuel Villar Constenla
+- [María Andrea Ugarte Valencia](https://github.com/mariaandreaugarte)
+
 The user enters a description of a product to search for and the API returns a list of 10 products with similar descriptions.
 
 In this repository you can find a pdf with documentation, a folder with the API files and the notebook.
